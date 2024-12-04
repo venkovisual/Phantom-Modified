@@ -1,0 +1,11 @@
+{
+  "inputFile": "C:\\Users\\miles\\Downloads\\phantom fudge\\Phantom\\bin\\Release\\Phantom.exe",
+  "antiDebug": true,
+  "antiVM": true,
+  "selfDelete": false,
+  "hidden": true,
+  "runas": false,
+  "startup": true,
+  "uacBypass": true,
+  "bindedFiles": []
+}
