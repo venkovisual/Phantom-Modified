@@ -18,6 +18,7 @@ Phantom Modified as some may called it Seek Crypter. Seek Crypter is a new CMD C
 ![image](https://github.com/user-attachments/assets/21e6f80a-c43d-496b-a59c-e51dccff51c3)
 
 Scan Results:
+
 ![image](https://github.com/user-attachments/assets/b3318cf8-f415-4a76-82af-82f5329cc92f)
 
 # Disclaimer
