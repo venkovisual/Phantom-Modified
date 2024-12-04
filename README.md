@@ -21,5 +21,10 @@ Scan Results:
 
 ![image](https://github.com/user-attachments/assets/b3318cf8-f415-4a76-82af-82f5329cc92f)
 
+Anti-Anyrun in Action:
+
+![image](https://github.com/user-attachments/assets/237df15e-0805-4505-a839-22a739e30ae0)
+
+
 # Disclaimer
 Please do not use this project for malicious use.
